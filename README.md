@@ -3,4 +3,4 @@ just simple native upload file
 
 #  Install
 create database "upload_file"
-export the sql file.
+import the sql file.
